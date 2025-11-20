@@ -1,9 +1,7 @@
 Welcome to GIBBLE!
 
-Hey there! You’re playing the very beginning of something way bigger. Right now, you’ll find a handful of modes and activities to mess around with - including Tag, a Tycoon, and a few fun extras scattered around the map.
+Hey! Thanks for checking out GIBBLE in its early beta. I know things look rough right now, but this is just the very beginning of something much bigger. There are a few modes to try out so far, like Tag, a Tycoon, and some fun little extras around the map—but everything is still a huge work-in-progress.
 
-Everything you see is early beta, so expect things to change, improve, and glow up over time. I’m constantly updating the game, adding new content, and polishing what’s already here.
+I’m actively improving the game, adding new content, and polishing things up as fast as I can. Tag especially is super bare-bones at the moment, but the goal is to turn it into something fast, smooth, and chaotic—kind of like Untitled Tag Game on Roblox. It will get better.
 
-Note: Tag is super bare-bones at the moment, the goal is to evolve it into something with the smooth, chaotic fun of Untitled Tag Game on Roblox. It’ll get there!
-
-Thanks for being here early. More updates are coming soon. <3
+Thank you for being here early. I hope you all stick around, give feedback, and watch the game grow over time. <3
